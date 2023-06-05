@@ -1,0 +1,32 @@
+.odd {
+    background-color: #ffb6c1;
+}
+
+.first-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.second-text {
+    font-family: dejavu Arial, Helvetica, sans-serif;
+    
+}
+
+.third-text {
+    font-family: sans-serif;
+    
+}
+
+#special-two {
+    color: blue;
+    font-size: 36px;
+}
+
+#green-element {
+    background-color: #93c47d;
+    font-weight: bold;
+}
+
+.sizepx {
+    font-size: 24px;
+}
